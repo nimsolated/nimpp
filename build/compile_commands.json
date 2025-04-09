@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/nimsolated/Desktop/Repos/nimlang/build",
+  "command": "/usr/bin/c++  -I/home/nimsolated/Desktop/Repos/nimlang/include -g -o CMakeFiles/nimlang.dir/src/testing.cpp.o -c /home/nimsolated/Desktop/Repos/nimlang/src/testing.cpp",
+  "file": "/home/nimsolated/Desktop/Repos/nimlang/src/testing.cpp",
+  "output": "CMakeFiles/nimlang.dir/src/testing.cpp.o"
+},
+{
+  "directory": "/home/nimsolated/Desktop/Repos/nimlang/build",
+  "command": "/usr/bin/c++  -I/home/nimsolated/Desktop/Repos/nimlang/include -g -o CMakeFiles/nimlang.dir/src/lexer.cpp.o -c /home/nimsolated/Desktop/Repos/nimlang/src/lexer.cpp",
+  "file": "/home/nimsolated/Desktop/Repos/nimlang/src/lexer.cpp",
+  "output": "CMakeFiles/nimlang.dir/src/lexer.cpp.o"
+}
+]
