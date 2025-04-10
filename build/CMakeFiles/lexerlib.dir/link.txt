@@ -1,2 +1,0 @@
-/usr/bin/ar qc liblexerlib.a CMakeFiles/lexerlib.dir/lexer.cpp.o
-/usr/bin/ranlib liblexerlib.a

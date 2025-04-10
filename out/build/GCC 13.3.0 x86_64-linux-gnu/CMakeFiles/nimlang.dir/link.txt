@@ -1,1 +1,0 @@
-/usr/bin/g++ -g CMakeFiles/nimlang.dir/src/testing.cpp.o CMakeFiles/nimlang.dir/src/lexer.cpp.o -o nimlang 

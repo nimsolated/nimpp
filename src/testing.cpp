@@ -1,10 +1,10 @@
-#include "lexer.cpp"
+#include "../include/lexer.h"
 #include <fstream>
 #include <sstream>
 
 int main() {
 	// open the source file
-	std::ifstream source("mytext.txt");
+	std::ifstream source("src/mytext.txt");
 	if (!source){
 		std::cout << "Failed to open the source file.\n";
 		return 1;
